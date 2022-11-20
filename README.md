@@ -19,3 +19,8 @@ sudo pacman -S alacritty nano arcolinux-i3wm-git archlinux-logout-git arcolinux-
 - Shift + mod + space (floating/tiling toggle?)
 - Shift + mouse (move floating window 1 guess)
 - mod + shift + 1/2 (move windows on other displays?)
+
+## Feh
+```
+feh --bg-scale --zoom fill /usr/share/backgrounds/archlinux-login-backgrounds/att-01.jpg
+```
