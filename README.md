@@ -24,3 +24,13 @@ sudo pacman -S alacritty nano arcolinux-i3wm-git archlinux-logout-git arcolinux-
 ```
 feh --bg-scale --zoom fill /usr/share/backgrounds/archlinux-login-backgrounds/att-01.jpg
 ```
+## i3 Cheat sheet
+```
+    startx i3 start i3 from command line.
+    $mod+<Enter> open a terminal.
+    $mod+d open dmenu (text based program launcher)
+    $mod+r resize mode ( or to leave resize mode)
+    $mod+shift+e exit i3.
+    $mod+shift+r restart i3 inplace.
+    $mod+shift+c reload config file.
+```
