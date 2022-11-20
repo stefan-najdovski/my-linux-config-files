@@ -6,6 +6,5 @@ sudo pacman -S alacritty nano arcolinux-i3wm-git archlinux-logout-git arcolinux-
 
 ```
 ##  default configs location?
-/etc/skel/.config/i3', '/etc/skel/.config/polybar'
-/etc/skel/.config/i3
-/etc/skel/.config/polybar
+- /etc/skel/.config/i3
+- /etc/skel/.config/polybar
