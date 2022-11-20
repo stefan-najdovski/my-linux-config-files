@@ -16,4 +16,5 @@ sudo pacman -S alacritty nano arcolinux-i3wm-git archlinux-logout-git arcolinux-
 - fullscreen mod+f
 - mod+arrow (move around focus i guess?)
 - Shift + mod + arrow (move windows)
-- mod + space (floating/tiling toggle?)
+- Shift + mod + space (floating/tiling toggle?)
+- Shift + mouse (move floating window 1 guess)
