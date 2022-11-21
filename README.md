@@ -24,6 +24,10 @@ sudo pacman -S alacritty nano arcolinux-i3wm-git archlinux-logout-git arcolinux-
 ```
 feh --bg-scale --zoom fill /usr/share/backgrounds/archlinux-login-backgrounds/att-01.jpg
 ```
+### Config place tmp ? 
+```
+~/.fehbg
+```
 ## i3 Cheat sheet
 ```
     startx i3 start i3 from command line.
