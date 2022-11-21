@@ -25,6 +25,11 @@ sudo pacman -S alacritty nano arcolinux-i3wm-git archlinux-logout-git arcolinux-
 feh --bg-scale --zoom fill /usr/share/backgrounds/archlinux-login-backgrounds/att-01.jpg
 ```
 ### Config place tmp ? 
+1. place bg from term
+```
+feh --bg-scale --zoom fill /home/stefan/Pictures/wallpaper.jpg
+```
+3. add to config i3wm
 ```
 ~/.fehbg
 ```
