@@ -34,3 +34,8 @@ feh --bg-scale --zoom fill /usr/share/backgrounds/archlinux-login-backgrounds/at
     $mod+shift+r restart i3 inplace.
     $mod+shift+c reload config file.
 ```
+## Wifi
+```
+nmcli dev wifi
+nmcli device wifi connect ImeNaWifi password password
+```
