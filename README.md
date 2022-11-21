@@ -48,3 +48,11 @@ nmcli device wifi connect ImeNaWifi password password
 - micro (golang)
 - tldr
 
+## Keyboard layout (doesnt work with i3 config some bad bug)
+Terminal command for changeing the layout
+```
+//Macedonian
+setxkbmap mk
+//English
+setxkbmap us
+```
