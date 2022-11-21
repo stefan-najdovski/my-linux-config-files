@@ -9,8 +9,8 @@ sudo pacman -S alacritty nano arcolinux-i3wm-git archlinux-logout-git arcolinux-
 
 ```
 ##  default configs location?
-- /etc/skel/.config/i3/config
-- /etc/skel/.config/polybar
+- ~/.config/i3/config
+- ~/.config/polybar/config
 
 ## Default keys
 - fullscreen mod+f
@@ -39,3 +39,12 @@ feh --bg-scale --zoom fill /usr/share/backgrounds/archlinux-login-backgrounds/at
 nmcli dev wifi
 nmcli device wifi connect ImeNaWifi password password
 ```
+## Linux app live in (.desktop)
+```
+/usr/share/applications
+```
+
+## My fav apps
+- micro (golang)
+- tldr
+
