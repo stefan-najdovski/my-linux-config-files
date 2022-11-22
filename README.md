@@ -69,3 +69,12 @@ setxkbmap us
 ```
 xrandr --output DP-1 --mode 1920x1080 --right-of eDP-1
 ```
+### Other
+```
+xrandr --query
+```
+```
+xrandr --listmonitors
+xrandr --listactivemonitors
+xrandr --listproviders
+```
