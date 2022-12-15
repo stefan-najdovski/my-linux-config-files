@@ -78,3 +78,8 @@ xrandr --listmonitors
 xrandr --listactivemonitors
 xrandr --listproviders
 ```
+
+# Network
+```
+ip -f inet addr show wlan0
+```
