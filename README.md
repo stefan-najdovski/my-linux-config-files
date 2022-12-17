@@ -1,4 +1,4 @@
-# i3-install-guide-my-own-docs
+# My Linux Doc's 
 
 ## Warning 
 - This is work in progress as I am still learning the i3 + polybar way on Arch.
