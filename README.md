@@ -83,3 +83,8 @@ xrandr --listproviders
 ```
 ip -f inet addr show wlan0
 ```
+
+# Bluetooth
+```
+/usr/lib/bluetooth/bluetoothd -n -d
+```
