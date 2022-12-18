@@ -86,7 +86,7 @@ ip -f inet addr show wlan0
 
 # Bluetooth
 ```
-/usr/lib/bluetooth/bluetoothd -n -d
+sudo /usr/lib/bluetooth/bluetoothd -n -d
 ```
 # Curl download file
 Tux example svg:
