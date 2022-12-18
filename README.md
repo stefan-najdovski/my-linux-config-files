@@ -88,3 +88,8 @@ ip -f inet addr show wlan0
 ```
 /usr/lib/bluetooth/bluetoothd -n -d
 ```
+# Curl download file
+Tux example svg:
+```
+curl https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg -o tux.svg
+```
