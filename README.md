@@ -93,3 +93,7 @@ Tux example svg:
 ```
 curl https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg -o tux.svg
 ```
+# Gnome Ext
+```
+gnome-extensions install -f <name of downloaded zip file>.zip 
+```
